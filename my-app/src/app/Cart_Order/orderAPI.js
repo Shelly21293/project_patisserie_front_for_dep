@@ -2,9 +2,9 @@
 import axios from "axios";
 
 
-const SERVER_URL_ADD_ORDER = "http://127.0.0.1:8000/api/addorder/"
-const SERVER_URL_GET_ORDER = "http://127.0.0.1:8000/api/getordersforuser/"
-const SERVER_URL_GET_ORDER_DETAILS = "http://127.0.0.1:8000/api/getorderDetails/"
+const SERVER_URL_ADD_ORDER = "https://project-patisserie.onrender.com/api/addorder/"
+const SERVER_URL_GET_ORDER = "https://project-patisserie.onrender.com/api/getordersforuser/"
+const SERVER_URL_GET_ORDER_DETAILS = "https://project-patisserie.onrender.com/api/getorderDetails/"
 
 
 
