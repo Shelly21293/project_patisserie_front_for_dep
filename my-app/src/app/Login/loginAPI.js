@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-const URL = "http://127.0.0.1:8000/api/token/"
-const URL_REGISTER = "http://127.0.0.1:8000/api/register/"
+const URL = "https://project-patisserie.onrender.com/api/token/"
+const URL_REGISTER = "https://project-patisserie.onrender.com/api/register/"
 
 // async(2)
 // singin
