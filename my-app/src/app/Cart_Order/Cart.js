@@ -65,7 +65,7 @@ export function Cart() {
                 title=<i>{prod.desc}</i>
               // subheader={prod.price}
               />
-              <img style={{ width: "250px", height: "250px" , objectFit: "cover" }} src={`http://127.0.0.1:8000/media/products/${prod.category_id}/${prod.image}`}></img>
+              <img style={{ width: "250px", height: "250px" , objectFit: "cover" }} src={`https://project-patisserie.onrender.com/media/products/${prod.category_id}/${prod.image}`}></img>
               {/* <CardMedia
                 component="img"
                 height="194"
