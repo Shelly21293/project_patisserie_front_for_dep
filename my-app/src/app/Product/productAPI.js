@@ -2,11 +2,11 @@
 import axios from "axios";
 
 
-const SERVER_URL_GET_PER_CAT="http://127.0.0.1:8000/api/getproductspercat/"
-// const SERVER_URL_GET="http://127.0.0.1:8000/api/getproduct/"
-const SERVER_URL_UPD="http://127.0.0.1:8000/api/updateproduct/"
-const SERVER_URL_DEL="http://127.0.0.1:8000/api/deleteproduct/"
-const SERVER_URL_ADD="http://127.0.0.1:8000/api/addproduct/"
+const SERVER_URL_GET_PER_CAT="https://project-patisserie.onrender.com/api/getproductspercat/"
+// const SERVER_URL_GET="https://project-patisserie.onrender.com/api/getproduct/"
+const SERVER_URL_UPD="https://project-patisserie.onrender.com/api/updateproduct/"
+const SERVER_URL_DEL="https://project-patisserie.onrender.com/api/deleteproduct/"
+const SERVER_URL_ADD="https://project-patisserie.onrender.com/api/addproduct/"
 
 
 export function getData(cat_id) {
