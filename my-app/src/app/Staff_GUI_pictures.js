@@ -12,20 +12,20 @@ import BottomNavigation from '@mui/material/BottomNavigation';
 
 const images = [
     {
-        url: 'http://127.0.0.1:8000/media/Staff_GUI/Products.jpeg',
+        url: 'https://project-patisserie.onrender.com/media/Staff_GUI/Products.jpeg',
         title: 'Products',
         width: '40%',
         
         path: "/staffGUI/prod"
     },
     {
-        url: 'http://127.0.0.1:8000/media/Staff_GUI/Categories.jpg',
+        url: 'https://project-patisserie.onrender.com/media/Staff_GUI/Categories.jpg',
         title: 'Categories',
         width: '30%',
         path: "/staffGUI/Prod"
     },
     {
-        url: 'http://127.0.0.1:8000/media/Staff_GUI/Customers.jpg',
+        url: 'https://project-patisserie.onrender.com/media/Staff_GUI/Customers.jpg',
         title: 'Customers',
         width: '30%',
         path: "/staffGUI/Prod"
