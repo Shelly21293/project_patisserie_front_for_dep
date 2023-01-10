@@ -2,10 +2,10 @@
 import axios from "axios";
 
 
-const SERVER_URL_GET = "http://127.0.0.1:8000/api/getcategories/"
-const SERVER_URL_UPD="http://127.0.0.1:8000/api/updatecategory/"
-const SERVER_URL_DEL="http://127.0.0.1:8000/api/deletecategory/"
-const SERVER_URL_ADD="http://127.0.0.1:8000/api/addcategory/"
+const SERVER_URL_GET = "https://project-patisserie.onrender.com/api/getcategories/"
+const SERVER_URL_UPD="https://project-patisserie.onrender.com/api/updatecategory/"
+const SERVER_URL_DEL="https://project-patisserie.onrender.com/api/deletecategory/"
+const SERVER_URL_ADD="https://project-patisserie.onrender.com/api/addcategory/"
 
 
 
